@@ -1,0 +1,22 @@
+{
+  "name": "color-average",
+  "version": "1.0.0",
+  "description": "Take css code color averages",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanzanero/color-average.git"
+  },
+  "author": "Andrew Manzanero, Matthew Hannane, Lyanne Laluino, Serena Zhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanzanero/color-average/issues"
+  },
+  "homepage": "https://github.com/amanzanero/color-average#readme",
+  "dependencies": {
+    "color": "^3.1.2"
+  }
+}
