@@ -4,7 +4,7 @@
   "description": "Take css code color averages",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/amanzanero/color-average#readme",
   "dependencies": {
     "color": "^3.1.2"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
   }
 }
